@@ -14,3 +14,6 @@ asdfasdfasdfasdf
 >>>>>>> develop
 
 214214
+
+
+v2 신기능 업데이트입니다
